@@ -71,12 +71,12 @@ pip install matplotlib
 
 #### 5. **Menyiapkan Dataset**
 
-* Pastikan Anda telah mengunduh dataset rontgen dada pneumonia dan menempatkannya di lokasi yang sesuai.
+* Pastikan mengunduh dataset rontgen dada pneumonia dan menempatkannya di lokasi yang sesuai. Dataset nya [Guangzhou Women and Children’s Medical Center](https://www.researchgate.net/figure/The-splits-of-the-pneumonia-datasets-from-Guangzhou-Women-and-Childrens-Medical-Center_tbl1_348896669)
 * Sesuaikan path dataset di dalam kode program, jika diperlukan.
 
 #### 6. **Menjalankan Proyek**
 
-Setelah semua dependensi terinstal, dapat mulai menjalankan proyek dengan menjalankan skrip atau notebook yang sesuai. Jika menggunakan Jupyter Notebook atau Google Colab, pastikan untuk mengupload dataset yang dibutuhkan dan jalankan notebook.
+Setelah semua dependensi terinstall, dapat mulai menjalankan proyek dengan menjalankan skrip atau notebook yang sesuai. Jika menggunakan Jupyter Notebook atau Google Colab, pastikan untuk mengupload dataset yang dibutuhkan dan jalankan notebook.
 
 ---
 
