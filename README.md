@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk mengembangkan model CNN (Convolutional Neural Network
 After evaluation, the model achieved:
 
 Accuracy: **93.53%**
-Test accuracy: **0.88**
+Test accuracy: **88%**
 
 
 ### Dataset
