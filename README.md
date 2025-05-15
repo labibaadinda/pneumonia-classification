@@ -1,5 +1,3 @@
-# Klasifikasi Pneumonia
-
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk mengembangkan model CNN (Convolutional Neural Network) yang dapat mengklasifikasikan citra rontgen dada (chest X-ray) untuk mendeteksi pneumonia pada anak-anak usia 1 hingga 5 tahun. Dataset yang digunakan berasal dari **Guangzhou Women and Children’s Medical Center, Guangzhou**, yang berfokus pada citra rontgen dada anak-anak sebagai bagian dari perawatan klinis rutin mereka.
@@ -23,7 +21,7 @@ Untuk menjalankan proyek ini, Anda memerlukan beberapa pustaka Python. Anda dapa
 
 #### 1. **Kloning Repositori (Opsional)**
 ```bash
-git clone https://github.com/labibaadinda/pneumonia-classification.git
+git clone https://github.com/labibaadinda/pneumonia-prediction-model.git
 cd pneumonia-classification
 ```
 
