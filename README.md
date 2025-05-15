@@ -2,6 +2,13 @@
 
 Proyek ini bertujuan untuk mengembangkan model CNN (Convolutional Neural Network) yang dapat mengklasifikasikan citra rontgen dada (chest X-ray) untuk mendeteksi pneumonia pada anak-anak usia 1 hingga 5 tahun. Dataset yang digunakan berasal dari **Guangzhou Women and Children’s Medical Center, Guangzhou**, yang berfokus pada citra rontgen dada anak-anak sebagai bagian dari perawatan klinis rutin mereka.
 
+### Model Performance
+After evaluation, the model achieved:
+
+Accuracy: **93.53%**
+Test accuracy: **0.88**
+
+
 ### Dataset
 
 Dataset ini terdiri dari **5.863 gambar rontgen dada** yang terbagi menjadi dua kelas:
