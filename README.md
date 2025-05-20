@@ -28,7 +28,7 @@ Untuk menjalankan proyek ini, Anda memerlukan beberapa pustaka Python. Anda dapa
 
 #### 1. **Kloning Repositori (Opsional)**
 ```bash
-git clone https://github.com/labibaadinda/pneumonia-prediction-model.git
+git clone https://github.com/labibaadinda/ppneumonia-classification-model.git
 cd pneumonia-classification
 ```
 
